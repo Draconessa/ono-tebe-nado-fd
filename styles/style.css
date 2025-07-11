@@ -27,7 +27,7 @@
     text-underline-offset: 4px;
 }
 
-.header__link_active{
+.header__link_active {
     text-decoration: none;
 }
 
@@ -96,7 +96,7 @@
 }
 
 .aligned-text_left {
-    text-align: left;  
+    text-align: left;
 }
 
 .aligned-text_center {
@@ -319,6 +319,6 @@
     height: 48px;
 }
 
-.white-text { 
-    color: #fff; 
+.white-text {
+    color: #fff;
 }
